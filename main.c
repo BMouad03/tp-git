@@ -1,1 +1,1 @@
-#include <stdio.h>\nint main() { printf("Bienvenue\\n"); return 0; }
+#include <stdio.h>\nint main() { printf("Bonjour\\n"); return 0; }
